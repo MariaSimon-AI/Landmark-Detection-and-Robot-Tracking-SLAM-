@@ -33,7 +33,7 @@ Poses as constraints filled in the matrix (example):
 
 # Instructions to run
 
-1. Type git clone (https://github.com/MariaSimon-AI/Landmark-Detection-and-Robot-Tracking-SLAM-.git)[https://github.com/MariaSimon-AI/Landmark-Detection-and-Robot-Tracking-SLAM-.git] in your Git bash (Terminal)
+1. Type git clone https://github.com/MariaSimon-AI/Landmark-Detection-and-Robot-Tracking-SLAM-.git in your Git bash (Terminal)
 2. Open terminal and type: jupyter notebook (make sure you've already installed jupyter notebook)
 3. Navigate to the 'Landmark-Detection-and-Robot-Tracking' folder and browse through the notebooks/files.
 
